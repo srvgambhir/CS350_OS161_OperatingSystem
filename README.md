@@ -12,6 +12,6 @@ Sys/161 is a machine simulator which emulates the physical hardware that OS/161 
 
 To run the completed OS/161 kernel, navigate to the root directory and run the following command:
 
-  sys161 kernel
+- sys161 kernel
   
 Note: Sys/161 needs to be downloaded prior to running the kernel
